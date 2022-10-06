@@ -1,4 +1,4 @@
-
+![](https://github.com/AmadAliKhann/AmadAliKhann/blob/main/banner.png)
 ![I am Web Developer](https://github.com/AmadAliKhann/AmadAliKhann/blob/main/waves.svg)
 ![Profile views](https://gpvc.arturio.dev/AmadAliKhann)  
 ### Hi there 👋
