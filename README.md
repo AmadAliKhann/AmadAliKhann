@@ -1,5 +1,5 @@
 ![](https://github.com/AmadAliKhann/AmadAliKhann/blob/main/banner.png)
-<img src="https://github.com/AmadAliKhann/AmadAliKhann/blob/main/waves.svg" alt="Waves" style="max-width: 100%">
+![](https://github.com/AmadAliKhann/AmadAliKhann/blob/main/waves.svg)
 
 ![Profile views](https://gpvc.arturio.dev/AmadAliKhann)  
 ### Hi there 👋
