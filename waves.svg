@@ -20,7 +20,7 @@
     .waves {
       position: absolute;
       bottom: 0;
-      width: 100%;
+      width: 100vw;
       height: 100px;
       min-height: 50px;
       max-height: 100px;
